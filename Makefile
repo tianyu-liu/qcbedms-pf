@@ -1,3 +1,4 @@
+
 #  make        ... generate executable
 #  make clean  ... delete unnecessary files
 
