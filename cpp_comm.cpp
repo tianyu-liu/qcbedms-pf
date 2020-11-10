@@ -2,6 +2,7 @@
  * Common C++ functions of QCBEDMS-PF
  */
 
+
 #ifdef SINCOS
 #	ifndef _GNU_SOURCE
 #		define _GNU_SOURCE
